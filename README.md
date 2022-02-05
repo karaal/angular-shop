@@ -1,3 +1,3 @@
 # angular-shop
 
-for learinig purposes
+for learnig purposes
